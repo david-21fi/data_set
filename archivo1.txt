@@ -1,2 +1,0 @@
-print"trabajando con git"
-estoy mejorando en git.
